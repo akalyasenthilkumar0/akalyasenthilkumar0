@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Akalya Senthil Kumar</h1>
+<h1 align="center">Hi 👋, I'm Akalya SenthilKumar</h1>
 
 <h3 align="center">Aspiring Data Scientist | Data Analytics | AI/ML Enthusiast</h3>
 
